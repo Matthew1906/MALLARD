@@ -57,4 +57,4 @@ The review dataset is sourced directly from the MyAnimeList (MAL) website and co
 
 ## Supporting documents and repositories
 - [MyAnimeListScraper](https://github.com/Matthew1906/MyAnimeListScraper): Repository containing web scraping algorithms used to scrape data from MyAnimeList, along with the raw data.
-- [MALLARD Data Integration](https://colab.research.google.com/drive/1WYLwb-q6NTjlSnnyIFSgaf3vbpovqEO8?usp=sharing): Google Colaboratory Notebook containing the code to process the raw data into an integrated review JSON file.
+- [MALLARD Data Integration](https://colab.research.google.com/drive/1cFCckFmDApEkeBJTm1xdZyIWM5DsvB3S?usp=sharing): Google Colaboratory Notebook containing the code to process the raw data into an integrated review JSON file.
